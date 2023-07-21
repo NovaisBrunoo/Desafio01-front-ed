@@ -1,0 +1,19 @@
+.header {
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+
+.header img {
+    width: 30px;
+    height: 30px;
+}
+
+.logo_text {
+    font-family: "roboto", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
