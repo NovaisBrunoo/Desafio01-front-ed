@@ -42,8 +42,8 @@
     font-family: "roboto", sans-serif;
 }
 
-.hero {
-    width: 70%;
+.hero-lista {
+    width: 95%;
     height: 100%;
     display: flex;
     justify-content: center;
